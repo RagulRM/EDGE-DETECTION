@@ -94,23 +94,28 @@ plt.show()
 
 ### SOBEL EDGE DETECTOR
 <br>
+
 ![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/c07f1d67-4a06-48ce-a984-45c27c78eee4)
 
 <br>
+
 ![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/1de55c9b-f254-4527-8ae3-c11d78ade6b1)
 
 <br>
+
 ![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/92a28def-ce8d-45fe-889b-f5590cbf9ab8)
 
 
 ### LAPLACIAN EDGE DETECTOR
 <br>
+
 ![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/83ba9ce9-9c08-4a3d-a4e9-6ba1b9b57489)
 
 <br>
 
 ### CANNY EDGE DETECTOR
 <br>
+
 ![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/78858fa4-7fc2-4af9-a0c3-65e3e05d9e4c)
 
 <br>
