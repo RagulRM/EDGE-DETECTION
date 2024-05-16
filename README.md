@@ -87,7 +87,9 @@ plt.show()
 ## Output:
 ### ORIGINAL IMAGE
 <br>
+
 ![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/a0a10810-9725-462a-a811-5a0a8ecf8522)
+
 <br>
 
 ### SOBEL EDGE DETECTOR
