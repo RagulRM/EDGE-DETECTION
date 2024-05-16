@@ -87,30 +87,30 @@ plt.show()
 ## Output:
 ### ORIGINAL IMAGE
 <br>
-<img src="https://github.com/Jenishajustin/EDGE-DETECTION/assets/119405070/5a80b7b5-53cf-43e9-89a5-0a4a63044f0c" height=300 width=400>
+![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/e86dc46a-50a9-4fe0-a458-ef107750282d)
 
 <br>
 
 ### SOBEL EDGE DETECTOR
 <br>
-<img src="https://github.com/Jenishajustin/EDGE-DETECTION/assets/119405070/5e80faca-3675-42fc-8e83-d2b595f009bf" height=300 width=400>
+![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/c07f1d67-4a06-48ce-a984-45c27c78eee4)
 
 <br>
-<img src="https://github.com/Jenishajustin/EDGE-DETECTION/assets/119405070/5ee25fb1-05a3-4a0f-9a8f-a766c3bb3ae0" height=300 width=400>
+![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/1de55c9b-f254-4527-8ae3-c11d78ade6b1)
 
 <br>
-<img src="https://github.com/Jenishajustin/EDGE-DETECTION/assets/119405070/53371e6b-7bdf-4d1c-8789-70f583ba9730" height=300 width=400>
+![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/92a28def-ce8d-45fe-889b-f5590cbf9ab8)
 
 
 ### LAPLACIAN EDGE DETECTOR
 <br>
-<img src="https://github.com/Jenishajustin/EDGE-DETECTION/assets/119405070/8d170931-20a2-438b-8b96-6d31deb28d2c" height=300 width=400>
+![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/83ba9ce9-9c08-4a3d-a4e9-6ba1b9b57489)
 
 <br>
 
 ### CANNY EDGE DETECTOR
 <br>
-<img src="https://github.com/Jenishajustin/EDGE-DETECTION/assets/119405070/86297d00-4b03-4399-bc69-a50bf787d49c" height=300 width=400>
+![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/78858fa4-7fc2-4af9-a0c3-65e3e05d9e4c)
 
 <br>
 
