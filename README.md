@@ -87,7 +87,7 @@ plt.show()
 ## Output:
 ### ORIGINAL IMAGE
 <br>
-![image](https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/e86dc46a-50a9-4fe0-a458-ef107750282d)
+(https://github.com/RagulRM/EDGE-DETECTION/assets/121609342/e86dc46a-50a9-4fe0-a458-ef107750282d)
 
 <br>
 
